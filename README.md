@@ -1,2 +1,3 @@
-This is a little project where you can type in specification with your rocket, and then you can see if it has enough
-delta v to get to orbit! lets see what you can do!
+In Space Adventure (GUI) you are able to build your
+own rocket and get into orbit. This is a GUI version
+of one of my other projects called Space Adventure (terminal)
