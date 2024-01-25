@@ -1,4 +1,5 @@
-from Core import core
+
+from Controller import MyApp
 if __name__ == '__main__':
-    runtime = core()
-    runtime.start_game()
+    app = MyApp()
+    app.mainloop()
