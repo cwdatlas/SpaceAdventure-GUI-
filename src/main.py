@@ -1,5 +1,5 @@
 
-from Controller import MyApp
+from Controller import RocketBuilder
 if __name__ == '__main__':
-    app = MyApp()
+    app = RocketBuilder()
     app.mainloop()
